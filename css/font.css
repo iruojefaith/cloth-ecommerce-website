@@ -1,0 +1,19 @@
+/*---font family Dancing_Script*/
+@font-face {
+    font-family: DancingScript;
+    src: url('../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+}
+/*---font family Josefin-Sans*/
+@font-face {
+    font-family: Josefin-Sans;
+    src: url('../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf');
+}
+/*---font family UBER*/
+@font-face {
+    font-family: uber;
+    src: url('../fonts/Uber/UberMoveMedium.otf');
+}/*---font family Josefin-Sans*/
+@font-face {
+    font-family: lobster;
+    src: url('../fonts/Lobster/Lobster-Regular.ttf');
+}
